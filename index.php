@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Sign source code head
  * Plugin URI: http://kilinkis.me
- * Description: Add name to source code.
+ * Description: Add developer's name to source code.
  * Version: 1.0.0
  * Author: kilinkis
  * Author URI: http://kilinkis.me
